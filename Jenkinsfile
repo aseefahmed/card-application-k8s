@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    PROJECT = "genuine-ether-252804"
+    PROJECT = "demo3-253715"
     APP_NAME = "gceme"
     FE_SVC_NAME = "${APP_NAME}-frontend"
     CLUSTER = "jenkins-cd"
